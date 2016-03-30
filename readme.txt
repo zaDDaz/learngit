@@ -1,4 +1,1 @@
-git is a distributed version control system.
-git is free software.
-newline
- add a lisence file
+stupid boss prefer svn
